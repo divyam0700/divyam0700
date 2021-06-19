@@ -1,4 +1,4 @@
 ### - Hi there 👋, I’m Divyam
 
+🔭 I’m currently pursuing my B.Tech in Mechanical Engg. at [IIT Mandi](https://www.iitmandi.ac.in).<br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=divyam0700&show_icons=true&theme=radical"></div>
